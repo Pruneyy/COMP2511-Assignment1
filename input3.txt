@@ -1,0 +1,27 @@
+Cinema 1 A 10  # Row A of cinema 1 has 10 seats
+Cinema 1 B 10  # Row B of cinema 1 has 10 seats
+Cinema 2 A 10  # Row B of cinema 2 has 10 seats
+Cinema 2 B 10  # Row X of cinema 2 has 10 seats
+Cinema 1 C 10  # Row C of cinema 1 has 10 seats
+Cinema 3 A 10  # Row A of cinema 3 has 10 seats
+Cinema 3 B 10  # Row B of cinema 3 has 10 seats
+Session 1 09:00 Dude, where's my car?   		
+Session 1 14:30 Hitchhikers Guide to the Galaxy  
+Session 2 09:00 The Lion King			         
+Session 3 09:00 Monty Python and the Holy Grail
+Request 1 1 09:00 10
+Request 2 1 09:00 7
+Request 3 1 09:00 10
+#OH NO A COMMENT!!!
+Request 4 1 09:00 2
+Change 1 1 09:00 8
+Request 5 1 09:00 2
+Request 6 1 14:30 9
+Cancel 1
+Cancel 3
+Change 2 1 09:00 9
+Change 2 1 09:00 10
+Print 1 09:00
+Print 1 14:30
+Print 2 09:00
+Print 3 09:00

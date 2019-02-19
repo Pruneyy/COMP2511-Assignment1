@@ -1,0 +1,17 @@
+Cinema 1 C 50
+Cinema 1 A 5
+Cinema 2 SEAT 17
+Cinema 1 DOG 8
+Cinema 2 A 13
+Session 1 09:00 JavaDoc Makes No Sense: The Movie
+Session 1 17:00 Harry Potter
+Session 2 08:00 Who Watches A Movie at 8am???
+Request 1 1 09:00 20
+Request 2 1 09:00 27
+Request 3 1 09:00 6
+Request 4 1 09:00 4
+Cancel 2
+Change 1 1 09:00 25
+Request 5 1 09:00 20
+Change 1 1 09:00 50
+Print 1 09:00
